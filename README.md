@@ -1,2 +1,6 @@
-# docs.sneg
-Docs about education GK SNEG 2.0
+# БУС 2.0
+
+> Новый курс 1С-Битрикс группы компаний СНЕГ.
+
+
+https://rushxxx.github.io/docs.sneg/
